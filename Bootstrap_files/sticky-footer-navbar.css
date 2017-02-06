@@ -1,0 +1,89 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #fff;
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+body > .container {
+  padding: 60px 15px 0;
+}
+.container .text-muted {
+  margin: 20px 0;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+code {
+  font-size: 80%;
+}
+
+html #footer {
+  bottom: 0;
+  width: 100%;
+  position: absolute;
+  height: 60px;
+}
+/* line 23, ../scss/style.scss */
+html #footer .footer-block {
+  margin: 20px 0;
+}
+
+/* line 118, ../scss/style.scss */
+#footer {
+  background-color: #1d2642;
+}
+
+/* line 120, ../scss/style.scss */
+#footer .navbar-header {
+  float: right;
+}
+/* line 122, ../scss/style.scss */
+#footer .navbar-header .navbar-brand {
+  height: 60px;
+  padding-top: 10px;
+}
+/* line 128, ../scss/style.scss */
+#footer .navbar-collapse .navbar-nav {
+  font-size: 105%;
+}
+/* line 130, ../scss/style.scss */
+#footer .navbar-collapse .navbar-nav > li > a {
+  color: #fff;
+}
+
+#footer .navbar-collapse .navbar-nav > li > a:hover {background-color: #78B4E2}
+
+/* line 137, ../scss/style.scss */
+#footer .navbar-header .navbar-brand img {
+  height: 100%;
+}
+
+html #footer {
+bottom: 0;
+width: 100%;
+position: absolute;
+height: 60px;
+font-family: montserrat;
+font-size: 12px;
+}

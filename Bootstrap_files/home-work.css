@@ -1,0 +1,68 @@
+.tour-content {
+	font-size: 17px;
+    line-height: 1.6;
+    letter-spacing: 0.1px;
+    color: #57585a;
+    margin-top: 11px;
+}
+
+.tour-content-title {
+	font-size: 30px;
+    letter-spacing: 0.1px;
+    color: #424345;
+    margin-bottom: 30px;
+}
+
+.sign-up-title {
+	font-size: 30px;
+    letter-spacing: 0.1px;
+    color: #424345;
+    margin-bottom: 30px;
+}
+
+.sign-up-content {
+	font-size: 17px;
+    line-height: 1.6;
+    letter-spacing: 0.1px;
+    color: #57585a;
+    margin-top: 11px;
+}
+
+.quote-text {
+	font-size: 22px;
+    line-height: 1.6;
+    letter-spacing: 0.1px;
+    color: #57585a;
+    margin-top: 11px;
+}
+
+.customer-quote-name {
+	font-size: 27px;
+    letter-spacing: 0.1px;
+    color: #424345;
+    padding-right: 5%;
+    margin-bottom: 1px
+}
+
+.customer-quote-company {
+	font-size: 17px;
+    letter-spacing: 0.1px;
+    color: #424345;
+	padding-right: 5%;
+}
+
+
+div#features-image-block.col-6.col-md-6 {
+	height: 300px
+}
+
+.features-block {
+	display: table;
+    margin: 0px auto;
+    padding: 0 5%;
+    width: 100%;
+    border-bottom: 1px solid rgba(150,150,150,0.14)
+}
+
+
+
