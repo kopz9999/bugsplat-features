@@ -20,3 +20,44 @@ div#features-image-block.col-6.col-md-6 {
 .quote-text, .customer-quote-name, .customer-quote-company, .tour-content, .tour-content-title {
   color: #424345;
 }
+
+.customer-avatar {
+  max-width: 125px;
+  max-height: 142px;
+  overflow: hidden;
+  margin:0 auto !important;
+}
+
+.customer-avatar img {
+  width: 100%;
+  margin-top: 10px;
+}
+
+@media (min-width: 992px) {
+  .customer-avatar {
+    transform: translateY(87%);
+  }
+}
+/*
+.customer_quote .row {
+  position: relative;
+}
+
+.customer_quote .row .col-3.col-md-3 {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+
+.customer_quote .row {
+  display: table;
+}
+
+.customer_quote .row > div {
+  float: none;
+  display: table-cell;
+  vertical-align: bottom;
+}
+
+*/
