@@ -1,0 +1,12 @@
+.features-image-block img {
+  margin:0 auto !important;
+  top: 0 !important;
+  left: 0 !important;
+  position: relative !important;
+  display: inherit;
+  -webkit-transform: none !important;
+  -moz-transform: none !important;
+  -ms-transform: none !important;
+  -o-transform: none !important;
+  transform: none !important;
+}
