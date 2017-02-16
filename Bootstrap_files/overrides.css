@@ -16,3 +16,7 @@
 div#features-image-block.col-6.col-md-6 {
   height: auto;
 }
+
+.quote-text, .customer-quote-name, .customer-quote-company, .tour-content, .tour-content-title {
+  color: #424345;
+}
